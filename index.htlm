@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body style="background-color:rgb(248, 246, 246);">
+    <header class="text-gray-600 body-font" style="background-color: rgb(231, 140, 28);" >
+        <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+          <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
+              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+            </svg>
+            <span class="ml-3 text-xl" style="font-size: 30px;font-weight: bold;">Steel Age Industries</span>
+          </a>
+          <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
+            <a href="/try1.html"class="mr-5 hover:text-gray-900" style="padding-left: 15px;color: #000;font-size: 17px;font-weight: bold;text-decoration-line: underline;">Home</a>
+            <a href="/about.html"class="mr-5 hover:text-gray-900" style="padding-left: 15px;color: #000;font-size: 17px;font-weight: bold;text-decoration-line: underline;">About Us</a>
+            <a href="/"class="mr-5 hover:text-gray-900" style="padding-left: 15px;color: #000;font-size: 17px;font-weight: bold;text-decoration-line: underline;">Products</a>
+            <a href="/"class="mr-5 hover:text-gray-900" style="padding-left: 15px;color: #000;font-size: 17px;font-weight: bold;text-decoration-line: underline;">Contact Us</a>
+          </nav>
+          
+        </div>
+      </header> 
+
+      <section style="height: 700px;background-image: url(allimg/steel\ age.jpeg);background-size: 100% 100%;">
+      </section>
+      
+      <section class="text-gray-600 body-font" style="background-color:rgb(251, 244, 244);animation-delay: 2s;">
+        <div class="container px-5 py-24 mx-auto">
+          <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="inline-block w-8 h-8 text-gray-400 mb-8" viewBox="0 0 975.036 975.036">
+              <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
+            </svg>
+            <p class="leading-relaxed text-lg" style="font-size: 20px;font-weight: bold;">"We believe in building long-lasting relationships with our partners based on trust, transparency, and mutual respect".</p>
+            <p class="leading-relaxed text-lg" style="padding-top: 50px;font-size: 20px;font-weight: bold;">"Whether you are a small business or a large corporation, we have the resources and expertise to help you grow and succeed. Contact us today to learn more about how we can help your business thrive".</p>
+            <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6"></span>
+            <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm"></h2>
+            <p class="text-gray-500"></p>
+          </div>
+        </div>
+      </section>
+      <section class="text-gray-600 body-font" style="background-color: rgb(132, 39, 24);">
+        <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+          <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+            <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900" style="font-weight: bold;">Welcome to
+              <br class="hidden lg:inline-block" style="font-weight: bold;text-decoration-line: underline">Steel Age Industries
+            </h1>
+            <p class="mb-8 leading-relaxed" style="font-size: large;">At our core, we are committed to building strong relationships with our clients and partners. We believe that by working together, we can achieve success and growth in our respective industries. We value honesty, transparency, and communication in all of our business dealings.</p>
+            
+          </div>
+          <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+            <img class="object-cover object-center rounded" alt="hero" src="allimg/steel age ind.jpg">
+          </div>
+        </div>
+      </section>
+      <hr >
+      <section class="text-gray-600 body-font" style="background-color: rgb(248, 243, 243);animation-delay: 2s;">
+        <div class="container px-5 py-24 mx-auto">
+          <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="inline-block w-8 h-8 text-gray-400 mb-8" viewBox="0 0 975.036 975.036">
+              <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
+            </svg>
+            <p class="mb-8 leading-relaxed" style="padding-top: 50px;font-size: 20px;font-weight: bold;">We are B2B distributor specializing in providing high-quality products and services to businesses of all sizes. With years of experience in the industry, we have developed a deep understanding of our clients' needs and are committed to delivering exceptional value and customer service.</p>
+
+            <p class="mb-8 leading-relaxed" style="padding-top: 30px;font-size: 20px;font-weight: bold;">At Steel Age Industries, we pride ourselves on being a reliable partner to our clients. We work closely with manufacturers and suppliers to source the best products at competitive prices, and we leverage our expertise in logistics and inventory management to ensure timely delivery to our clients.</p>
+            
+            <p class="mb-8 leading-relaxed" style="padding-top: 30px;font-size: 20px;font-weight: bold;">Our team of experienced professionals is dedicated to providing customized solutions to meet the unique needs of each client. We understand that every business is different, and we work closely with our clients to develop solutions that are tailored to their specific needs and goals.</p>
+            
+           <p class="mb-8 leading-relaxed" style="padding-top: 30px;font-size: 20px;font-weight: bold;"> In addition to our commitment to quality and customer service, we are also committed to sustainability and social responsibility. We are constantly seeking ways to reduce our environmental impact and support causes that align with our values.</p>
+            
+         
+          </div>
+        </div>
+      </section>
+      <hr>
+      <section class="text-gray-600 body-font" style="background-color: rgb(132, 39, 24);">
+        <div class="container px-5 py-24 mx-auto">
+          <div class="flex flex-wrap -m-4">
+            <div class="lg:w-1/3 lg:mb-0 mb-6 p-4">
+              <div class="h-full text-center">
+                <p style="font-size: 45px;text-decoration-line: underline;padding-bottom: 20px;padding-top: 45px;font-weight: bolder;">Mission</p>
+                <p class="leading-relaxed" style="font-size: large;">Our mission as a B2B distributor is to provide high-quality products and services to businesses while maintaining exceptional customer service. We aim to be a reliable partner to our clients, providing them with the resources they need to grow and succeed in their industries.</p>
+                <span class="inline-block h-1 w-10 rounded bg-red-500 mt-6 mb-4"></span>
+                <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm"></h2>
+                <p class="text-gray-500"></p>
+              </div>
+            </div>
+            <div class="lg:w-1/3 lg:mb-0 mb-6 p-4">
+              <div class="h-full text-center">
+                <p style="font-size: 45px;text-decoration-line: underline;padding-bottom: 20px;padding-top: 45px;font-weight: bolder;">Vision</p>
+                <p class="leading-relaxed" style="font-size: large;">Our vision is to become a leading B2B distributor in our market, recognized for our innovative solutions and commitment to customer satisfaction. We strive to constantly improve our processes and offerings, staying ahead of the competition and delivering value to our clients.</p>
+                <span class="inline-block h-1 w-10 rounded bg-red-500 mt-6 mb-4"></span>
+                <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm"></h2>
+                <p class="text-gray-500"></p>
+              </div>
+            </div>
+            <div class="lg:w-1/3 lg:mb-0 p-4">
+              <div class="h-full text-center">
+                <p style="font-size: 45px;text-decoration-line: underline;padding-bottom: 20px;padding-top: 45px;font-weight: bolder;">Scope</p>
+                <p class="leading-relaxed" style="font-size: large;">As a B2B distributor, our scope is to provide a wide range of products and services to businesses in various industries.Our focus is on building long-term relationships with our clients, understanding their needs and goals, and delivering value-added services to help them achieve success.</p>
+                <span class="inline-block h-1 w-10 rounded bg-red-500 mt-6 mb-4"></span>
+                <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm"></h2>
+                <p class="text-gray-500"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <hr>
+      <section class="text-gray-600 body-font">
+        <div class="container px-5 py-24 mx-auto">
+          <h1 class="text-3xl font-medium title-font text-gray-900 mb-12 text-center" style="font-weight: bold;text-decoration-line: underline;font-size: 40px;">Testimonials</h1>
+          <div class="flex flex-wrap -m-4">
+            <div class="p-4 md:w-1/2 w-full">
+              <div class="h-full bg-gray-100 p-8 rounded">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="block w-5 h-5 text-gray-400 mb-4" viewBox="0 0 975.036 975.036">
+                  <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
+                </svg>
+                <p class="leading-relaxed mb-6">"We have been working with Steel Age Industries for several years now and their service has been exceptional. They are always willing to go above and beyond to ensure that we receive our products on time and in good condition. We highly recommend them to any business looking for a reliable distributor."</p>
+                
+              </div>
+            </div>
+            <div class="p-4 md:w-1/2 w-full">
+              <div class="h-full bg-gray-100 p-8 rounded">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="block w-5 h-5 text-gray-400 mb-4" viewBox="0 0 975.036 975.036">
+                  <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
+                </svg>
+                <p class="leading-relaxed mb-6">"Working with Steel Age has been a great experience for our business. They have been reliable and consistent in their delivery of high-quality products, and their team has always been responsive to our needs. We appreciate their professionalism and attention to detail."</p>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <hr>
+      <section class="text-gray-600 body-font" style="background-color: rgb(132, 39, 24);">
+        
+        <div class="text-center lg:w-2/3 w-full">
+          <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900" style="align-items: center;margin-left: 600px;margin-bottom: 0px;text-decoration-line: underline;font-family: Georgia, 'Times New Roman', Times, serif, 'Trebuchet MS', sans-serif;font-size: 50px;padding-top: 60px;padding-bottom: 10px;">Our Products-</h1>
+          
+          <div class="flex justify-center">
+            
+          </div>
+        </div>
+        
+        <div class="container px-5 py-24 mx-auto" style="padding-top:50px ;">
+          <div class="flex flex-wrap -m-4">
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//steel wire ropes.webp">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Steel Ropes</p>
+                
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//sling.jpg">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Sling</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//eye hook.jpeg">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Eye Hook</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//self locking hooks.webp">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Self Locking Hooks</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//screw pin d shackle.png">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Screw pin d shackle</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//clamp.jpg">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Clamp</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//chain pulley.jpeg">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Chain Pulley</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//plastic ropes.webp">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Plastic Ropes</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//turn buckle.webp" style="object-fit: cover;">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Turn Buckle</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//round ring.webp">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Round Ring</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//master-ring.webp">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Master Ring</p>
+              </div>
+            </div>
+            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+              <a class="block relative h-48 rounded overflow-hidden">
+                <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="allimg//bolt type d shackle.jpg">
+              </a>
+              <div class="mt-4">
+                <p  style="height: 80px;color: black;font-weight: bold;text-decoration-line: underline;font-size: 20px;">Bolt type d shackle</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        </section>
+      </section>
+      <hr>
+      
+      <section class="text-gray-600 body-font relative">
+        <div class="container px-5 py-24 mx-auto">
+          <div class="flex flex-col text-center w-full mb-12">
+            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900" style="font-weight: bolder;text-decoration-line: underline;">Contact Us</h1>
+            <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Feel free to contact us for any queries.</p>
+          </div>
+          <div class="lg:w-1/2 md:w-2/3 mx-auto">
+            <div class="flex flex-wrap -m-2">
+              <div class="p-2 w-1/2">
+                <div class="relative">
+                  <form action="mailto: steelagealwar@gmail.com">
+                  <label for="name" class="leading-7 text-sm text-gray-600">Name</label>
+                  <input type="text" id="name" name="name" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+                </div>
+              </div>
+              <div class="p-2 w-1/2">
+                <div class="relative">
+                  <label for="email" class="leading-7 text-sm text-gray-600">Email</label>
+                  <input type="email" id="email" name="email" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+                </div>
+              </div>
+              <div class="p-2 w-full">
+                <div class="relative">
+                  <label for="message" class="leading-7 text-sm text-gray-600">Message</label>
+                  <textarea id="message" name="message" class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
+                </div>
+              </div>
+              <div class="p-2 w-full">
+                
+                <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Send</button>
+                
+              </div>
+              </form>
+              <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
+                <a class="text-indigo-500">steelagealwar@gmail.com</a>
+                <p class="leading-normal my-5">49 Smith St.
+                  <br>Saint Cloud, MN 56301
+                  <br>Phone No. - 9414445846
+                  <br style="padding-left: 100px;"> 8824803752
+                  
+                </p>
+                <span class="inline-flex">
+                  <a class="text-gray-500">
+                    <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                      <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
+                    </svg>
+                  </a>
+                  <a class="ml-4 text-gray-500">
+                    <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                      <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
+                    </svg>
+                  </a>
+                  <a class="ml-4 text-gray-500">
+                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                      <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                      <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
+                    </svg>
+                  </a>
+                  <a class="ml-4 text-gray-500">
+                    <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                      <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
+                    </svg>
+                  </a>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <hr>
+</body>
+</html>
